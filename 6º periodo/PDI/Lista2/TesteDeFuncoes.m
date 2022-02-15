@@ -1,0 +1,1 @@
+#Q4 - Testar funções#------------------------------------------------function TesteDeFuncoes(img)imgGray = rgb2gray(img);figure(1);imshow(imgGray);imwrite(imgGray, 'imgGray.png')[imgInd, map] = rgb2ind(img);imgDouble = im2double(img);figure(2);imshow(imgDouble);imwrite(imgDouble, 'imgDouble.png')#---im2bw não existe

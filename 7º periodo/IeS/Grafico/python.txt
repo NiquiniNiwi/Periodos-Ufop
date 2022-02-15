@@ -1,0 +1,24 @@
+# lista = [variavel de qualquer tipo, variavel de qualquer tipo, variavel de qualquer tipo, variavel de qualquer tipo]
+#apend(o que quer adicionar na lista) | lista.apende()
+#in pode ser usado pra verificar se esta na lista | ex: if 7 in lista
+#del lista[n:m]
+#lista.sort() ordena lista sem retorno |reverese = true coloca invertido
+#lista = sorted(lista) ordena com retono
+#lista.reverse() inverte a lista
+#dicionario{Chave: valor, chave: valor, etc}
+#dicionario.items() retorna chave e valore
+#dicionario.values() retorna valores
+#dicionario.keys() retorna chaves
+#for varivel in variavel
+#for variavel in range(tamanho inicial, tamamho final -1, espaçamento)
+#len(string|lista) = tamanho
+#seq[n] = acha posição | seq[n:m] = acha de n até m
+#def Nome(parâmetros): | Nome(argumentos)
+#variavel = open(arquivo, modo) | r, w, a, r+, w+, a+
+#close() fecha arquivo
+#read() le tudo | readline() | readlines() le todas as linhas
+#write(o quer escrito no arquivo)
+#import random | .randint(n,m) | .seed(n) | .choice(lista)
+#try: except:
+#x = lista | y = [receber | laço | condição]
+------------------------------------------------------------------------

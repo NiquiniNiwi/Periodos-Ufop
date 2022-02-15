@@ -1,0 +1,76 @@
+%================================================================%
+%======  Modelo de Monografia ( UFOP - DECOM) ===================%
+% Proposta de texto em conformidade com normas da ABNT ----------%
+% implementadas pelo projeto abntex2, que pode ser acessado pela %
+% página  http://abntex2.googlecode.com/  -----------------------%
+%================================================================%
+\documentclass[12pt, % tamanho da fonte
+   %openright,	     % capítulos começam em pág ímpar
+	oneside,		  % twoside para impressão em frente e verso.  
+	a4paper,			% tamanho do papel. 
+	english,			% Idioma adicional para hifenizaç
+    brazil,				% Idioma principal 
+    sumario=tradicional % Comente para o sumário ser conforme a opção padrão recomendada pela ABNT NBR 6027:2012.
+	]{abntex2}
+	
+\input{structure}  % Estrutura do documento e pacotes (packages) usados. Outros pacotes devem ser  adicionados ao arquivo structure.tex. 
+
+\newcommand{\comentarioOrientador}[1]{{\color{red}{#1}}}  % comando para comentários orientador.
+
+% -- Informações para Capa e Folha de Rosto: ---------------
+\titulo{Twitch e seu crescimento durante a pandemia:} 
+\subtitulo{}
+\autor{Gabriel Fernandes Niquini} \autorcite{Aluno, Nome}
+\local{Ouro Preto} \uf{MG}
+\data{16 de outubro de 2020} \ano{2020}
+\orientador{Amanda S. Nascimento}  % Nome do orientador 
+\ttorientador{Universidade Federal de Ouro Preto} % Instituição do orientador
+%\coorientador{Prof. Dr. Nome do Coorientador}   % Nome do coorientador
+%\ttcoorientador{Universidade Federal de Ouro Preto} % Instituição do Coorientador
+\instituicao{Universidade Federal de Ouro Preto} \sigla{UFOP}
+\instituto{Instituto de Ciências Exatas e Biológicas}
+\departamento{Departamento de Computação}
+\curso{Ciência da Computação}	
+\tipotrabalho{Trabalho prático de conclusão do periódo}
+% ------------------------------------------------------
+\makeindex   
+
+\begin{document} % Início do documento
+
+\frenchspacing  % Retira espaço obsoleto entre as frases.
+
+% ----------------------------------------------------------
+% -- Elementos Pré-Textuais: -------------------------------
+\pagenumbering{roman}
+
+\imprimircapa  % Capa
+\imprimirfolhaderosto % Folha de rosto
+\include{PreTextuais/Resumo} % (Abstract no mesmo arquivo)
+
+% As listas abaixo são opcionais. Caso o trabalho não possua alguma(s) dela(s) basta comentar os seus respectivos comandos.
+
+% lista de Tabelas
+\pdfbookmark[0]{\listtablename}{lot}
+\listoftables*  
+\cleardoublepage
+
+% Sumário:
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+
+%% ------------- Capítulos ----------------------%%
+\pagenumbering{arabic} \setcounter{page}{1}
+\textual 
+\include{Capitulos/Cap1-Introducao}
+\include{Capitulos/Cap3-Desenvolvimento}
+\include{Capitulos/Cap4-Discussao}
+\include{Capitulos/Cap5-Conclusao}
+
+%% -------------- Elementos Pós-Textuais -----------------%%
+\postextual  
+\include{PosTextuais/Apendice}
+\include{PosTextuais/Anexo}
+\phantompart  \printindex  % Indice Remissivo
+% ----------------------------------------------------------
+\end{document}  % fim do documento
