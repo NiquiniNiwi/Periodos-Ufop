@@ -1,2 +1,2 @@
-# 10º periodo
+# 1º periodo
 ## Repository with files from the 1st semerster
