@@ -1,2 +1,2 @@
-# Periodos-ufop
-Repository with files from individual UFOP semesters 
+# 7º periodo
+## Repository with files from the 7th semerster
