@@ -1,0 +1,24 @@
+#middleText{
+    border-top: 40px solid #E06D2D;
+    border-bottom: 40px solid #E06D2D;
+    border-left: 90px solid #E06D2D;
+    border-right: 90px solid #E06D2D;
+    width: auto;
+    height: 598px;
+    top: auto;
+    bottom: auto;
+    color: white;
+    background-image: url("../Images/imagem_Background_3.jpg");
+    
+}
+
+#mdTitulo{
+    margin-left: 45%;
+    font-size: 50px;
+    text-align: center;
+}
+
+#mdText{
+    font-size: 20px;
+    text-align: center;
+}

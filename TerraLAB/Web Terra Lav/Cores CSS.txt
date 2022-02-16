@@ -1,0 +1,6 @@
+#fcc603 - "Laranja"
+#a1fc03 - "Verde"
+#fc5603 - "Vermelho"
+#089FAA - "Azul"
+#0FEEFF - "Azul-Claro"
+#B57C37 - "Ouro"

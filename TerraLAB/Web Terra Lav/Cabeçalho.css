@@ -1,0 +1,37 @@
+#Cabeçalho{    
+    background-color: black;
+}
+
+#cabeçalho{
+    margin-top: 3%;
+    color: #E06D2D;
+    
+}
+
+#titulo{
+    margin-left: 5%;
+    font-size: 40px;
+    margin-right: auto;
+    padding-right: 50%;
+}
+
+#utilities{
+    text-decoration: none;
+    margin-left: 1%;
+    font-size: 30px;
+    text-align: justify;
+}
+
+#utilities:hover{
+    color:lightgreen;
+    cursor: pointer;
+}
+
+
+#rodape{    
+    text-align: center;    
+    bottom: 15%; 
+    width: 100%;
+    color: #E06D2D;
+
+}

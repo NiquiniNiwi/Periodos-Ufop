@@ -1,0 +1,22 @@
+#Login{
+    border-top: 45px solid #E06D2D;
+    border-bottom: 45px solid #E06D2D;
+    width: auto;
+    height: 598px;
+    top: auto;
+    bottom: auto;
+    background-color: whitesmoke;
+    color:  #E06D2D;
+}
+#mdTituloCadastro{
+    margin-left: 40%;
+    font-size: 55px;
+}
+
+#labels{
+    margin-left: 40%;   
+}
+
+#salvar{
+    margin-left: 45%;
+}

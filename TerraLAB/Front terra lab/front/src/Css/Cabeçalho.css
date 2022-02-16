@@ -1,0 +1,48 @@
+#Cabeçalho{    
+    background-color: black;
+}
+
+#cabeçalho{
+    color: #E06D2D;  
+}
+
+#titulo{
+    margin-left: 5%;
+    font-size: 40px;
+    margin-right: auto;
+    padding-right: 50%;
+}
+img{
+    margin-left: 1%;
+    display:inline-block;
+}
+ul{
+    display: inline-block;
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    color:#E06D2D;
+    float: left;
+    display:block;
+    font-size: 30px;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+#utilities:hover{
+    color:lightgreen;
+    cursor: pointer;
+}
+
+
+#rodape{    
+    text-align: center;    
+    bottom: 15%; 
+    width: 100%;
+    color: #E06D2D;
+    background-color: black;
+}
