@@ -1,0 +1,229 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Hierarchical Index}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Class Hierarchy}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Class Index}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Class List}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}File Index}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}File List}{5}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Class Documentation}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Exponential Class Reference}{7}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Detailed Description}{8}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Constructor \& Destructor Documentation}{8}{subsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.2.1}Exponential()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{8}{subsubsection.4.1.2.1}%
+\contentsline {subsubsection}{\numberline {4.1.2.2}Exponential()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{9}{subsubsection.4.1.2.2}%
+\contentsline {subsection}{\numberline {4.1.3}Member Function Documentation}{9}{subsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.3.1}run()}{9}{subsubsection.4.1.3.1}%
+\contentsline {section}{\numberline {4.2}Flow Class Reference}{9}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Detailed Description}{10}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Constructor \& Destructor Documentation}{10}{subsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.2.1}$\sim $Flow()}{10}{subsubsection.4.2.2.1}%
+\contentsline {subsection}{\numberline {4.2.3}Member Function Documentation}{10}{subsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.3.1}getDestination()}{11}{subsubsection.4.2.3.1}%
+\contentsline {subsubsection}{\numberline {4.2.3.2}getSource()}{11}{subsubsection.4.2.3.2}%
+\contentsline {subsubsection}{\numberline {4.2.3.3}operator=()}{11}{subsubsection.4.2.3.3}%
+\contentsline {subsubsection}{\numberline {4.2.3.4}run()}{12}{subsubsection.4.2.3.4}%
+\contentsline {subsubsection}{\numberline {4.2.3.5}setDestination()}{12}{subsubsection.4.2.3.5}%
+\contentsline {subsubsection}{\numberline {4.2.3.6}setSources()}{12}{subsubsection.4.2.3.6}%
+\contentsline {section}{\numberline {4.3}Flow\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp Class Reference}{12}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Detailed Description}{14}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Constructor \& Destructor Documentation}{14}{subsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.2.1}Flow\_Imp()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{14}{subsubsection.4.3.2.1}%
+\contentsline {subsubsection}{\numberline {4.3.2.2}Flow\_Imp()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{14}{subsubsection.4.3.2.2}%
+\contentsline {subsubsection}{\numberline {4.3.2.3}$\sim $Flow\_Imp()}{15}{subsubsection.4.3.2.3}%
+\contentsline {subsection}{\numberline {4.3.3}Member Function Documentation}{15}{subsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.3.1}getDestination()}{15}{subsubsection.4.3.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.3.2}getSource()}{15}{subsubsection.4.3.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3.3}operator=()}{15}{subsubsection.4.3.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.3.4}run()}{16}{subsubsection.4.3.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.3.5}setDestination()}{16}{subsubsection.4.3.3.5}%
+\contentsline {subsubsection}{\numberline {4.3.3.6}setSources()}{17}{subsubsection.4.3.3.6}%
+\contentsline {subsection}{\numberline {4.3.4}Member Data Documentation}{17}{subsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.4.1}destination}{17}{subsubsection.4.3.4.1}%
+\contentsline {subsubsection}{\numberline {4.3.4.2}source}{17}{subsubsection.4.3.4.2}%
+\contentsline {section}{\numberline {4.4}Flow\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Unit Class Reference}{18}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Detailed Description}{18}{subsection.4.4.1}%
+\contentsline {section}{\numberline {4.5}Logistic Class Reference}{19}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Detailed Description}{20}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Constructor \& Destructor Documentation}{20}{subsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.2.1}Logistic()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{20}{subsubsection.4.5.2.1}%
+\contentsline {subsubsection}{\numberline {4.5.2.2}Logistic()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{20}{subsubsection.4.5.2.2}%
+\contentsline {subsection}{\numberline {4.5.3}Member Function Documentation}{20}{subsection.4.5.3}%
+\contentsline {subsubsection}{\numberline {4.5.3.1}run()}{21}{subsubsection.4.5.3.1}%
+\contentsline {section}{\numberline {4.6}Model Class Reference}{21}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Detailed Description}{22}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Constructor \& Destructor Documentation}{22}{subsection.4.6.2}%
+\contentsline {subsubsection}{\numberline {4.6.2.1}$\sim $Model()}{22}{subsubsection.4.6.2.1}%
+\contentsline {subsection}{\numberline {4.6.3}Member Function Documentation}{22}{subsection.4.6.3}%
+\contentsline {subsubsection}{\numberline {4.6.3.1}createFlow()}{22}{subsubsection.4.6.3.1}%
+\contentsline {subsubsection}{\numberline {4.6.3.2}createModel()}{22}{subsubsection.4.6.3.2}%
+\contentsline {subsubsection}{\numberline {4.6.3.3}createSystem()}{23}{subsubsection.4.6.3.3}%
+\contentsline {subsubsection}{\numberline {4.6.3.4}getFlows()}{23}{subsubsection.4.6.3.4}%
+\contentsline {subsubsection}{\numberline {4.6.3.5}getSystem()}{23}{subsubsection.4.6.3.5}%
+\contentsline {subsubsection}{\numberline {4.6.3.6}operator=()}{24}{subsubsection.4.6.3.6}%
+\contentsline {subsubsection}{\numberline {4.6.3.7}run()}{24}{subsubsection.4.6.3.7}%
+\contentsline {section}{\numberline {4.7}Model\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp Class Reference}{24}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Detailed Description}{25}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Constructor \& Destructor Documentation}{26}{subsection.4.7.2}%
+\contentsline {subsubsection}{\numberline {4.7.2.1}Model\_Imp()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{26}{subsubsection.4.7.2.1}%
+\contentsline {subsubsection}{\numberline {4.7.2.2}Model\_Imp()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{26}{subsubsection.4.7.2.2}%
+\contentsline {subsubsection}{\numberline {4.7.2.3}$\sim $Model\_Imp()}{26}{subsubsection.4.7.2.3}%
+\contentsline {subsection}{\numberline {4.7.3}Member Function Documentation}{26}{subsection.4.7.3}%
+\contentsline {subsubsection}{\numberline {4.7.3.1}createModel()}{26}{subsubsection.4.7.3.1}%
+\contentsline {subsubsection}{\numberline {4.7.3.2}createSystem()}{27}{subsubsection.4.7.3.2}%
+\contentsline {subsubsection}{\numberline {4.7.3.3}getFlows()}{27}{subsubsection.4.7.3.3}%
+\contentsline {subsubsection}{\numberline {4.7.3.4}getSystem()}{27}{subsubsection.4.7.3.4}%
+\contentsline {subsubsection}{\numberline {4.7.3.5}operator=()}{27}{subsubsection.4.7.3.5}%
+\contentsline {subsubsection}{\numberline {4.7.3.6}run()}{28}{subsubsection.4.7.3.6}%
+\contentsline {subsection}{\numberline {4.7.4}Member Data Documentation}{28}{subsection.4.7.4}%
+\contentsline {subsubsection}{\numberline {4.7.4.1}flows}{28}{subsubsection.4.7.4.1}%
+\contentsline {subsubsection}{\numberline {4.7.4.2}models}{28}{subsubsection.4.7.4.2}%
+\contentsline {subsubsection}{\numberline {4.7.4.3}systems}{28}{subsubsection.4.7.4.3}%
+\contentsline {section}{\numberline {4.8}System Class Reference}{29}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}Detailed Description}{29}{subsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.8.2}Constructor \& Destructor Documentation}{29}{subsection.4.8.2}%
+\contentsline {subsubsection}{\numberline {4.8.2.1}$\sim $System()}{30}{subsubsection.4.8.2.1}%
+\contentsline {subsection}{\numberline {4.8.3}Member Function Documentation}{30}{subsection.4.8.3}%
+\contentsline {subsubsection}{\numberline {4.8.3.1}getName()}{30}{subsubsection.4.8.3.1}%
+\contentsline {subsubsection}{\numberline {4.8.3.2}getValue()}{30}{subsubsection.4.8.3.2}%
+\contentsline {subsubsection}{\numberline {4.8.3.3}operator=()}{30}{subsubsection.4.8.3.3}%
+\contentsline {subsubsection}{\numberline {4.8.3.4}setName()}{31}{subsubsection.4.8.3.4}%
+\contentsline {subsubsection}{\numberline {4.8.3.5}setValue()}{31}{subsubsection.4.8.3.5}%
+\contentsline {section}{\numberline {4.9}System\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp Class Reference}{31}{section.4.9}%
+\contentsline {subsection}{\numberline {4.9.1}Detailed Description}{33}{subsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.9.2}Constructor \& Destructor Documentation}{33}{subsection.4.9.2}%
+\contentsline {subsubsection}{\numberline {4.9.2.1}System\_Imp()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{33}{subsubsection.4.9.2.1}%
+\contentsline {subsubsection}{\numberline {4.9.2.2}System\_Imp()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{33}{subsubsection.4.9.2.2}%
+\contentsline {subsubsection}{\numberline {4.9.2.3}$\sim $System\_Imp()}{33}{subsubsection.4.9.2.3}%
+\contentsline {subsection}{\numberline {4.9.3}Member Function Documentation}{34}{subsection.4.9.3}%
+\contentsline {subsubsection}{\numberline {4.9.3.1}getName()}{34}{subsubsection.4.9.3.1}%
+\contentsline {subsubsection}{\numberline {4.9.3.2}getValue()}{34}{subsubsection.4.9.3.2}%
+\contentsline {subsubsection}{\numberline {4.9.3.3}operator=()}{34}{subsubsection.4.9.3.3}%
+\contentsline {subsubsection}{\numberline {4.9.3.4}setName()}{35}{subsubsection.4.9.3.4}%
+\contentsline {subsubsection}{\numberline {4.9.3.5}setValue()}{35}{subsubsection.4.9.3.5}%
+\contentsline {subsection}{\numberline {4.9.4}Member Data Documentation}{35}{subsection.4.9.4}%
+\contentsline {subsubsection}{\numberline {4.9.4.1}name}{35}{subsubsection.4.9.4.1}%
+\contentsline {subsubsection}{\numberline {4.9.4.2}value}{36}{subsubsection.4.9.4.2}%
+\contentsline {chapter}{\numberline {5}File Documentation}{37}{chapter.5}%
+\contentsline {section}{\numberline {5.1}src/lib/flow.h File Reference}{37}{section.5.1}%
+\contentsline {section}{\numberline {5.2}flow.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{38}{section.5.2}%
+\contentsline {section}{\numberline {5.3}src/lib/flow\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp.cpp File Reference}{39}{section.5.3}%
+\contentsline {section}{\numberline {5.4}flow\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp}{39}{section.5.4}%
+\contentsline {section}{\numberline {5.5}src/lib/flow\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp.h File Reference}{40}{section.5.5}%
+\contentsline {section}{\numberline {5.6}flow\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{41}{section.5.6}%
+\contentsline {section}{\numberline {5.7}src/lib/flow\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}unit.h File Reference}{42}{section.5.7}%
+\contentsline {section}{\numberline {5.8}flow\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}unit.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{43}{section.5.8}%
+\contentsline {section}{\numberline {5.9}src/lib/model.h File Reference}{43}{section.5.9}%
+\contentsline {section}{\numberline {5.10}model.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{44}{section.5.10}%
+\contentsline {section}{\numberline {5.11}src/lib/model\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp.cpp File Reference}{45}{section.5.11}%
+\contentsline {section}{\numberline {5.12}model\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp}{45}{section.5.12}%
+\contentsline {section}{\numberline {5.13}src/lib/model\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp.h File Reference}{47}{section.5.13}%
+\contentsline {section}{\numberline {5.14}model\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{48}{section.5.14}%
+\contentsline {section}{\numberline {5.15}src/lib/my\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Sim.cpp File Reference}{49}{section.5.15}%
+\contentsline {section}{\numberline {5.16}my\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Sim.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp}{49}{section.5.16}%
+\contentsline {section}{\numberline {5.17}src/lib/my\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Slim.h File Reference}{49}{section.5.17}%
+\contentsline {section}{\numberline {5.18}my\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Slim.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{49}{section.5.18}%
+\contentsline {section}{\numberline {5.19}src/lib/system.h File Reference}{49}{section.5.19}%
+\contentsline {section}{\numberline {5.20}system.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{50}{section.5.20}%
+\contentsline {section}{\numberline {5.21}src/lib/system\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp.cpp File Reference}{50}{section.5.21}%
+\contentsline {section}{\numberline {5.22}system\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp}{51}{section.5.22}%
+\contentsline {section}{\numberline {5.23}src/lib/system\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp.h File Reference}{51}{section.5.23}%
+\contentsline {section}{\numberline {5.24}system\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Imp.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{52}{section.5.24}%
+\contentsline {section}{\numberline {5.25}src/main.cpp File Reference}{52}{section.5.25}%
+\contentsline {subsection}{\numberline {5.25.1}Function Documentation}{53}{subsection.5.25.1}%
+\contentsline {subsubsection}{\numberline {5.25.1.1}main()}{53}{subsubsection.5.25.1.1}%
+\contentsline {section}{\numberline {5.26}main.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp}{53}{section.5.26}%
+\contentsline {section}{\numberline {5.27}test/functional/main.cpp File Reference}{54}{section.5.27}%
+\contentsline {subsection}{\numberline {5.27.1}Function Documentation}{54}{subsection.5.27.1}%
+\contentsline {subsubsection}{\numberline {5.27.1.1}main()}{54}{subsubsection.5.27.1.1}%
+\contentsline {section}{\numberline {5.28}main.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp}{55}{section.5.28}%
+\contentsline {section}{\numberline {5.29}test/unit/main.cpp File Reference}{55}{section.5.29}%
+\contentsline {subsection}{\numberline {5.29.1}Function Documentation}{55}{subsection.5.29.1}%
+\contentsline {subsubsection}{\numberline {5.29.1.1}main()}{56}{subsubsection.5.29.1.1}%
+\contentsline {section}{\numberline {5.30}main.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp}{56}{section.5.30}%
+\contentsline {section}{\numberline {5.31}test/functional/functional\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}tests.cpp File Reference}{56}{section.5.31}%
+\contentsline {subsection}{\numberline {5.31.1}Function Documentation}{57}{subsection.5.31.1}%
+\contentsline {subsubsection}{\numberline {5.31.1.1}complexFuncionalTest()}{57}{subsubsection.5.31.1.1}%
+\contentsline {subsubsection}{\numberline {5.31.1.2}exponentialFuncionalTest()}{58}{subsubsection.5.31.1.2}%
+\contentsline {subsubsection}{\numberline {5.31.1.3}logisticalFuncionalTest()}{58}{subsubsection.5.31.1.3}%
+\contentsline {section}{\numberline {5.32}functional\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}tests.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp}{58}{section.5.32}%
+\contentsline {section}{\numberline {5.33}test/functional/functional\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}tests.h File Reference}{59}{section.5.33}%
+\contentsline {subsection}{\numberline {5.33.1}Function Documentation}{60}{subsection.5.33.1}%
+\contentsline {subsubsection}{\numberline {5.33.1.1}complexFuncionalTest()}{60}{subsubsection.5.33.1.1}%
+\contentsline {subsubsection}{\numberline {5.33.1.2}exponentialFuncionalTest()}{60}{subsubsection.5.33.1.2}%
+\contentsline {subsubsection}{\numberline {5.33.1.3}logisticalFuncionalTest()}{61}{subsubsection.5.33.1.3}%
+\contentsline {section}{\numberline {5.34}functional\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}tests.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{61}{section.5.34}%
+\contentsline {section}{\numberline {5.35}test/unit/mem\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}usage.cpp File Reference}{61}{section.5.35}%
+\contentsline {subsection}{\numberline {5.35.1}Function Documentation}{62}{subsection.5.35.1}%
+\contentsline {subsubsection}{\numberline {5.35.1.1}mem\_usage()}{62}{subsubsection.5.35.1.1}%
+\contentsline {section}{\numberline {5.36}mem\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}usage.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp}{62}{section.5.36}%
+\contentsline {section}{\numberline {5.37}test/unit/mem\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}usage.h File Reference}{62}{section.5.37}%
+\contentsline {subsection}{\numberline {5.37.1}Function Documentation}{63}{subsection.5.37.1}%
+\contentsline {subsubsection}{\numberline {5.37.1.1}mem\_usage()}{63}{subsubsection.5.37.1.1}%
+\contentsline {section}{\numberline {5.38}mem\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}usage.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{63}{section.5.38}%
+\contentsline {section}{\numberline {5.39}test/unit/unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}flow.cpp File Reference}{64}{section.5.39}%
+\contentsline {subsection}{\numberline {5.39.1}Function Documentation}{64}{subsection.5.39.1}%
+\contentsline {subsubsection}{\numberline {5.39.1.1}run\_unit\_test\_Flow()}{65}{subsubsection.5.39.1.1}%
+\contentsline {subsubsection}{\numberline {5.39.1.2}unit\_Flow\_constructor()}{65}{subsubsection.5.39.1.2}%
+\contentsline {subsubsection}{\numberline {5.39.1.3}unit\_Flow\_destructor()}{65}{subsubsection.5.39.1.3}%
+\contentsline {subsubsection}{\numberline {5.39.1.4}unit\_Flow\_getDestination()}{65}{subsubsection.5.39.1.4}%
+\contentsline {subsubsection}{\numberline {5.39.1.5}unit\_Flow\_getSource()}{65}{subsubsection.5.39.1.5}%
+\contentsline {subsubsection}{\numberline {5.39.1.6}unit\_Flow\_operator()}{65}{subsubsection.5.39.1.6}%
+\contentsline {subsubsection}{\numberline {5.39.1.7}unit\_Flow\_setDestination()}{66}{subsubsection.5.39.1.7}%
+\contentsline {subsubsection}{\numberline {5.39.1.8}unit\_Flow\_setSource()}{66}{subsubsection.5.39.1.8}%
+\contentsline {section}{\numberline {5.40}unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}flow.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp}{66}{section.5.40}%
+\contentsline {section}{\numberline {5.41}test/unit/unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}flow.h File Reference}{67}{section.5.41}%
+\contentsline {subsection}{\numberline {5.41.1}Function Documentation}{68}{subsection.5.41.1}%
+\contentsline {subsubsection}{\numberline {5.41.1.1}run\_unit\_test\_Flow()}{68}{subsubsection.5.41.1.1}%
+\contentsline {subsubsection}{\numberline {5.41.1.2}unit\_Flow\_constructor()}{68}{subsubsection.5.41.1.2}%
+\contentsline {subsubsection}{\numberline {5.41.1.3}unit\_Flow\_destructor()}{69}{subsubsection.5.41.1.3}%
+\contentsline {subsubsection}{\numberline {5.41.1.4}unit\_Flow\_getDestination()}{69}{subsubsection.5.41.1.4}%
+\contentsline {subsubsection}{\numberline {5.41.1.5}unit\_Flow\_getSource()}{69}{subsubsection.5.41.1.5}%
+\contentsline {subsubsection}{\numberline {5.41.1.6}unit\_Flow\_operator()}{69}{subsubsection.5.41.1.6}%
+\contentsline {subsubsection}{\numberline {5.41.1.7}unit\_Flow\_setDestination()}{69}{subsubsection.5.41.1.7}%
+\contentsline {subsubsection}{\numberline {5.41.1.8}unit\_Flow\_setSource()}{69}{subsubsection.5.41.1.8}%
+\contentsline {section}{\numberline {5.42}unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}flow.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{70}{section.5.42}%
+\contentsline {section}{\numberline {5.43}test/unit/unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}model.cpp File Reference}{70}{section.5.43}%
+\contentsline {subsection}{\numberline {5.43.1}Function Documentation}{71}{subsection.5.43.1}%
+\contentsline {subsubsection}{\numberline {5.43.1.1}run\_unit\_test\_Model()}{71}{subsubsection.5.43.1.1}%
+\contentsline {subsubsection}{\numberline {5.43.1.2}unit\_Model\_add\_Flow()}{71}{subsubsection.5.43.1.2}%
+\contentsline {subsubsection}{\numberline {5.43.1.3}unit\_Model\_add\_System()}{71}{subsubsection.5.43.1.3}%
+\contentsline {subsubsection}{\numberline {5.43.1.4}unit\_Model\_constructor()}{71}{subsubsection.5.43.1.4}%
+\contentsline {subsubsection}{\numberline {5.43.1.5}unit\_Model\_destructor()}{72}{subsubsection.5.43.1.5}%
+\contentsline {subsubsection}{\numberline {5.43.1.6}unit\_Model\_run()}{72}{subsubsection.5.43.1.6}%
+\contentsline {section}{\numberline {5.44}unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}model.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp}{72}{section.5.44}%
+\contentsline {section}{\numberline {5.45}test/unit/unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}model.h File Reference}{73}{section.5.45}%
+\contentsline {subsection}{\numberline {5.45.1}Function Documentation}{74}{subsection.5.45.1}%
+\contentsline {subsubsection}{\numberline {5.45.1.1}run\_unit\_test\_Model()}{74}{subsubsection.5.45.1.1}%
+\contentsline {subsubsection}{\numberline {5.45.1.2}unit\_Model\_add\_Flow()}{74}{subsubsection.5.45.1.2}%
+\contentsline {subsubsection}{\numberline {5.45.1.3}unit\_Model\_add\_System()}{74}{subsubsection.5.45.1.3}%
+\contentsline {subsubsection}{\numberline {5.45.1.4}unit\_Model\_constructor()}{74}{subsubsection.5.45.1.4}%
+\contentsline {subsubsection}{\numberline {5.45.1.5}unit\_Model\_destructor()}{75}{subsubsection.5.45.1.5}%
+\contentsline {subsubsection}{\numberline {5.45.1.6}unit\_Model\_run()}{75}{subsubsection.5.45.1.6}%
+\contentsline {section}{\numberline {5.46}unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}model.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{75}{section.5.46}%
+\contentsline {section}{\numberline {5.47}test/unit/unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}system.cpp File Reference}{76}{section.5.47}%
+\contentsline {subsection}{\numberline {5.47.1}Function Documentation}{76}{subsection.5.47.1}%
+\contentsline {subsubsection}{\numberline {5.47.1.1}run\_unit\_test\_System()}{76}{subsubsection.5.47.1.1}%
+\contentsline {subsubsection}{\numberline {5.47.1.2}unit\_System\_constructor()}{77}{subsubsection.5.47.1.2}%
+\contentsline {subsubsection}{\numberline {5.47.1.3}unit\_System\_destructor()}{77}{subsubsection.5.47.1.3}%
+\contentsline {subsubsection}{\numberline {5.47.1.4}unit\_System\_getName()}{77}{subsubsection.5.47.1.4}%
+\contentsline {subsubsection}{\numberline {5.47.1.5}unit\_System\_getValue()}{77}{subsubsection.5.47.1.5}%
+\contentsline {subsubsection}{\numberline {5.47.1.6}unit\_System\_operator()}{77}{subsubsection.5.47.1.6}%
+\contentsline {subsubsection}{\numberline {5.47.1.7}unit\_System\_setName()}{77}{subsubsection.5.47.1.7}%
+\contentsline {subsubsection}{\numberline {5.47.1.8}unit\_System\_setValue()}{78}{subsubsection.5.47.1.8}%
+\contentsline {section}{\numberline {5.48}unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}system.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp}{78}{section.5.48}%
+\contentsline {section}{\numberline {5.49}test/unit/unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}system.h File Reference}{79}{section.5.49}%
+\contentsline {subsection}{\numberline {5.49.1}Function Documentation}{80}{subsection.5.49.1}%
+\contentsline {subsubsection}{\numberline {5.49.1.1}run\_unit\_test\_System()}{80}{subsubsection.5.49.1.1}%
+\contentsline {subsubsection}{\numberline {5.49.1.2}unit\_System\_constructor()}{80}{subsubsection.5.49.1.2}%
+\contentsline {subsubsection}{\numberline {5.49.1.3}unit\_System\_destructor()}{80}{subsubsection.5.49.1.3}%
+\contentsline {subsubsection}{\numberline {5.49.1.4}unit\_System\_getName()}{80}{subsubsection.5.49.1.4}%
+\contentsline {subsubsection}{\numberline {5.49.1.5}unit\_System\_getValue()}{80}{subsubsection.5.49.1.5}%
+\contentsline {subsubsection}{\numberline {5.49.1.6}unit\_System\_operator()}{81}{subsubsection.5.49.1.6}%
+\contentsline {subsubsection}{\numberline {5.49.1.7}unit\_System\_setName()}{81}{subsubsection.5.49.1.7}%
+\contentsline {subsubsection}{\numberline {5.49.1.8}unit\_System\_setValue()}{81}{subsubsection.5.49.1.8}%
+\contentsline {section}{\numberline {5.50}unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}system.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{81}{section.5.50}%
+\contentsline {section}{\numberline {5.51}test/unit/unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}tests.cpp File Reference}{82}{section.5.51}%
+\contentsline {section}{\numberline {5.52}unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}tests.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp}{82}{section.5.52}%
+\contentsline {section}{\numberline {5.53}test/unit/unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}tests.h File Reference}{82}{section.5.53}%
+\contentsline {section}{\numberline {5.54}unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}tests.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{83}{section.5.54}%
+\contentsline {chapter}{Index}{85}{section*.91}%

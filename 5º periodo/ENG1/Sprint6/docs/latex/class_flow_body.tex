@@ -1,0 +1,186 @@
+\hypertarget{class_flow_body}{}\doxysection{Flow\+Body Class Reference}
+\label{class_flow_body}\index{FlowBody@{FlowBody}}
+
+
+{\ttfamily \#include $<$flow\+\_\+\+Imp.\+h$>$}
+
+
+
+Inheritance diagram for Flow\+Body\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=288pt]{class_flow_body__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Flow\+Body\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=201pt]{class_flow_body__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_flow_body_af7c4dc7b257284ba66176985df9ad544}{Flow\+Body}} ()
+\item 
+\mbox{\hyperlink{class_flow_body_aa54b0e2a4e4182e01d9e1e2fd4927feb}{Flow\+Body}} (\mbox{\hyperlink{class_system}{System}} $\ast$, \mbox{\hyperlink{class_system}{System}} $\ast$)
+\item 
+virtual \mbox{\hyperlink{class_flow_body_a178e56af6c29c29b49c1f9f7af7d9311}{$\sim$\+Flow\+Body}} ()
+\item 
+void \mbox{\hyperlink{class_flow_body_a59d7fec573ffc71552dbe5fbca8c649e}{set\+Sources}} (\mbox{\hyperlink{class_system}{System}} $\ast$)
+\item 
+void \mbox{\hyperlink{class_flow_body_ac256360958029f26d4be2322d2e74f28}{set\+Destination}} (\mbox{\hyperlink{class_system}{System}} $\ast$)
+\item 
+\mbox{\hyperlink{class_system}{System}} $\ast$ \mbox{\hyperlink{class_flow_body_acd4ccaea46cd833a0cee5f6b5f0df858}{get\+Source}} ()
+\item 
+\mbox{\hyperlink{class_system}{System}} $\ast$ \mbox{\hyperlink{class_flow_body_a9c9fe5e8aee4fd6ec7a8f4c355be99f4}{get\+Destination}} ()
+\item 
+virtual double \mbox{\hyperlink{class_flow_body_a05dd380b61b8e336528a507fd81882ac}{run}} ()=0
+\item 
+\mbox{\hyperlink{class_flow_body}{Flow\+Body}} $\ast$ \mbox{\hyperlink{class_flow_body_a4072fb4e3ea930d4aaae3cbc59ed8d48}{operator=}} (\mbox{\hyperlink{class_flow_body}{Flow\+Body}} $\ast$)
+\end{DoxyCompactItemize}
+\doxysubsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_system}{System}} $\ast$ \mbox{\hyperlink{class_flow_body_a7c46fc66ff02f18c387535e914337c82}{source}}
+\item 
+\mbox{\hyperlink{class_system}{System}} $\ast$ \mbox{\hyperlink{class_flow_body_a7e4c98ae7bed2c5ac492d881cca6570d}{destination}}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+
+
+Definition at line \mbox{\hyperlink{flow___imp_8h_source_l00011}{11}} of file \mbox{\hyperlink{flow___imp_8h_source}{flow\+\_\+\+Imp.\+h}}.
+
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_flow_body_af7c4dc7b257284ba66176985df9ad544}\label{class_flow_body_af7c4dc7b257284ba66176985df9ad544}} 
+\index{FlowBody@{FlowBody}!FlowBody@{FlowBody}}
+\index{FlowBody@{FlowBody}!FlowBody@{FlowBody}}
+\doxysubsubsection{\texorpdfstring{FlowBody()}{FlowBody()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily Flow\+Body\+::\+Flow\+Body (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Definition at line \mbox{\hyperlink{flow___imp_8cpp_source_l00003}{3}} of file \mbox{\hyperlink{flow___imp_8cpp_source}{flow\+\_\+\+Imp.\+cpp}}.
+
+\mbox{\Hypertarget{class_flow_body_aa54b0e2a4e4182e01d9e1e2fd4927feb}\label{class_flow_body_aa54b0e2a4e4182e01d9e1e2fd4927feb}} 
+\index{FlowBody@{FlowBody}!FlowBody@{FlowBody}}
+\index{FlowBody@{FlowBody}!FlowBody@{FlowBody}}
+\doxysubsubsection{\texorpdfstring{FlowBody()}{FlowBody()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily Flow\+Body\+::\+Flow\+Body (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_system}{System}} $\ast$}]{source,  }\item[{\mbox{\hyperlink{class_system}{System}} $\ast$}]{destination }\end{DoxyParamCaption})}
+
+
+
+Definition at line \mbox{\hyperlink{flow___imp_8cpp_source_l00005}{5}} of file \mbox{\hyperlink{flow___imp_8cpp_source}{flow\+\_\+\+Imp.\+cpp}}.
+
+\mbox{\Hypertarget{class_flow_body_a178e56af6c29c29b49c1f9f7af7d9311}\label{class_flow_body_a178e56af6c29c29b49c1f9f7af7d9311}} 
+\index{FlowBody@{FlowBody}!````~FlowBody@{$\sim$FlowBody}}
+\index{````~FlowBody@{$\sim$FlowBody}!FlowBody@{FlowBody}}
+\doxysubsubsection{\texorpdfstring{$\sim$FlowBody()}{~FlowBody()}}
+{\footnotesize\ttfamily Flow\+Body\+::$\sim$\+Flow\+Body (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+
+
+Definition at line \mbox{\hyperlink{flow___imp_8cpp_source_l00010}{10}} of file \mbox{\hyperlink{flow___imp_8cpp_source}{flow\+\_\+\+Imp.\+cpp}}.
+
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_flow_body_a9c9fe5e8aee4fd6ec7a8f4c355be99f4}\label{class_flow_body_a9c9fe5e8aee4fd6ec7a8f4c355be99f4}} 
+\index{FlowBody@{FlowBody}!getDestination@{getDestination}}
+\index{getDestination@{getDestination}!FlowBody@{FlowBody}}
+\doxysubsubsection{\texorpdfstring{getDestination()}{getDestination()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_system}{System}} $\ast$ Flow\+Body\+::get\+Destination (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Definition at line \mbox{\hyperlink{flow___imp_8cpp_source_l00024}{24}} of file \mbox{\hyperlink{flow___imp_8cpp_source}{flow\+\_\+\+Imp.\+cpp}}.
+
+\mbox{\Hypertarget{class_flow_body_acd4ccaea46cd833a0cee5f6b5f0df858}\label{class_flow_body_acd4ccaea46cd833a0cee5f6b5f0df858}} 
+\index{FlowBody@{FlowBody}!getSource@{getSource}}
+\index{getSource@{getSource}!FlowBody@{FlowBody}}
+\doxysubsubsection{\texorpdfstring{getSource()}{getSource()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_system}{System}} $\ast$ Flow\+Body\+::get\+Source (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Definition at line \mbox{\hyperlink{flow___imp_8cpp_source_l00020}{20}} of file \mbox{\hyperlink{flow___imp_8cpp_source}{flow\+\_\+\+Imp.\+cpp}}.
+
+\mbox{\Hypertarget{class_flow_body_a4072fb4e3ea930d4aaae3cbc59ed8d48}\label{class_flow_body_a4072fb4e3ea930d4aaae3cbc59ed8d48}} 
+\index{FlowBody@{FlowBody}!operator=@{operator=}}
+\index{operator=@{operator=}!FlowBody@{FlowBody}}
+\doxysubsubsection{\texorpdfstring{operator=()}{operator=()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_flow_body}{Flow\+Body}} $\ast$ Flow\+Body\+::operator= (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_flow_body}{Flow\+Body}} $\ast$}]{flow }\end{DoxyParamCaption})}
+
+
+
+Definition at line \mbox{\hyperlink{flow___imp_8cpp_source_l00028}{28}} of file \mbox{\hyperlink{flow___imp_8cpp_source}{flow\+\_\+\+Imp.\+cpp}}.
+
+\mbox{\Hypertarget{class_flow_body_a05dd380b61b8e336528a507fd81882ac}\label{class_flow_body_a05dd380b61b8e336528a507fd81882ac}} 
+\index{FlowBody@{FlowBody}!run@{run}}
+\index{run@{run}!FlowBody@{FlowBody}}
+\doxysubsubsection{\texorpdfstring{run()}{run()}}
+{\footnotesize\ttfamily virtual double Flow\+Body\+::run (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+
+
+Implemented in \mbox{\hyperlink{class_exponential_a00fc8c70e25ea91120b26d640480a22c}{Exponential}}, \mbox{\hyperlink{class_logistic_af6f99f0b3655a4f2066617564935ff24}{Logistic}}, \mbox{\hyperlink{class_flow_unit_a9a53e30daf47fe0c31785a1ec8e19d83}{Flow\+Unit}}, \mbox{\hyperlink{class_exponential_a00fc8c70e25ea91120b26d640480a22c}{Exponential}}, and \mbox{\hyperlink{class_logistic_af6f99f0b3655a4f2066617564935ff24}{Logistic}}.
+
+\mbox{\Hypertarget{class_flow_body_ac256360958029f26d4be2322d2e74f28}\label{class_flow_body_ac256360958029f26d4be2322d2e74f28}} 
+\index{FlowBody@{FlowBody}!setDestination@{setDestination}}
+\index{setDestination@{setDestination}!FlowBody@{FlowBody}}
+\doxysubsubsection{\texorpdfstring{setDestination()}{setDestination()}}
+{\footnotesize\ttfamily void Flow\+Body\+::set\+Destination (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_system}{System}} $\ast$}]{destination }\end{DoxyParamCaption})}
+
+
+
+Definition at line \mbox{\hyperlink{flow___imp_8cpp_source_l00016}{16}} of file \mbox{\hyperlink{flow___imp_8cpp_source}{flow\+\_\+\+Imp.\+cpp}}.
+
+\mbox{\Hypertarget{class_flow_body_a59d7fec573ffc71552dbe5fbca8c649e}\label{class_flow_body_a59d7fec573ffc71552dbe5fbca8c649e}} 
+\index{FlowBody@{FlowBody}!setSources@{setSources}}
+\index{setSources@{setSources}!FlowBody@{FlowBody}}
+\doxysubsubsection{\texorpdfstring{setSources()}{setSources()}}
+{\footnotesize\ttfamily void Flow\+Body\+::set\+Sources (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_system}{System}} $\ast$}]{source }\end{DoxyParamCaption})}
+
+
+
+Definition at line \mbox{\hyperlink{flow___imp_8cpp_source_l00012}{12}} of file \mbox{\hyperlink{flow___imp_8cpp_source}{flow\+\_\+\+Imp.\+cpp}}.
+
+
+
+\doxysubsection{Member Data Documentation}
+\mbox{\Hypertarget{class_flow_body_a7e4c98ae7bed2c5ac492d881cca6570d}\label{class_flow_body_a7e4c98ae7bed2c5ac492d881cca6570d}} 
+\index{FlowBody@{FlowBody}!destination@{destination}}
+\index{destination@{destination}!FlowBody@{FlowBody}}
+\doxysubsubsection{\texorpdfstring{destination}{destination}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_system}{System}}$\ast$ Flow\+Body\+::destination\hspace{0.3cm}{\ttfamily [protected]}}
+
+
+
+Definition at line \mbox{\hyperlink{flow___imp_8h_source_l00014}{14}} of file \mbox{\hyperlink{flow___imp_8h_source}{flow\+\_\+\+Imp.\+h}}.
+
+\mbox{\Hypertarget{class_flow_body_a7c46fc66ff02f18c387535e914337c82}\label{class_flow_body_a7c46fc66ff02f18c387535e914337c82}} 
+\index{FlowBody@{FlowBody}!source@{source}}
+\index{source@{source}!FlowBody@{FlowBody}}
+\doxysubsubsection{\texorpdfstring{source}{source}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_system}{System}}$\ast$ Flow\+Body\+::source\hspace{0.3cm}{\ttfamily [protected]}}
+
+
+
+Definition at line \mbox{\hyperlink{flow___imp_8h_source_l00013}{13}} of file \mbox{\hyperlink{flow___imp_8h_source}{flow\+\_\+\+Imp.\+h}}.
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+src/lib/\mbox{\hyperlink{flow___imp_8h}{flow\+\_\+\+Imp.\+h}}\item 
+src/lib/\mbox{\hyperlink{flow___imp_8cpp}{flow\+\_\+\+Imp.\+cpp}}\end{DoxyCompactItemize}

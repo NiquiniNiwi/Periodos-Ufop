@@ -1,0 +1,48 @@
+\hypertarget{functional__tests_8h_source}{}\doxysection{functional\+\_\+tests.\+h}
+\label{functional__tests_8h_source}\index{test/functional/functional\_tests.h@{test/functional/functional\_tests.h}}
+\mbox{\hyperlink{functional__tests_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00001}00001 \textcolor{preprocessor}{\#ifndef FUNCTIONAL\_TESTS\_H}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00002}00002 \textcolor{preprocessor}{\#define FUNCTIONAL\_TESTS\_H}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00003}00003 \textcolor{preprocessor}{\#include "{}../../src/lib/model.h"{}}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00004}00004 \textcolor{preprocessor}{\#include "{}../../src/lib/flow.h"{}}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00005}00005 \textcolor{preprocessor}{\#include "{}../../src/lib/system.h"{}}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00006}00006 \textcolor{preprocessor}{\#include "{}../../src/lib/flow\_Imp.h"{}}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00007}00007 }
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00008}\mbox{\hyperlink{functional__tests_8h_a0450d63f8737e5a26bf087c6306e110b}{00008}} \textcolor{preprocessor}{\#define EXPONENTIAL FlowHandle<Exponential>}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00009}\mbox{\hyperlink{functional__tests_8h_a4dd5812520f0d909b360c24636086bee}{00009}} \textcolor{preprocessor}{\#define LOGISTIC  FlowHandle<Logistic>}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00010}00010 }
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00011}00011 \textcolor{preprocessor}{\#include <iostream>}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00012}00012 \textcolor{preprocessor}{\#include <cstdlib>}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00013}00013 \textcolor{preprocessor}{\#include <assert.h>}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00014}00014 \textcolor{preprocessor}{\#include <math.h>}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00015}00015 }
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00016}00016 }
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00022}00022 \textcolor{keyword}{using namespace }std;}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00023}00023 }
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00028}00028     \textcolor{keywordtype}{void} \mbox{\hyperlink{functional__tests_8h_a2c448ffaffdff4b03c825a01dffa6f27}{exponentialFuncionalTest}}();}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00029}00029 }
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00034}00034     \textcolor{keywordtype}{void} \mbox{\hyperlink{functional__tests_8h_a60914db64bde71b56d69320797266c29}{logisticalFuncionalTest}}();}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00035}00035 }
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00040}00040     \textcolor{keywordtype}{void} \mbox{\hyperlink{functional__tests_8h_a943dfe0c597a01c9760c140715fed527}{complexFuncionalTest}}();}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00041}00041 }
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00042}\mbox{\hyperlink{class_exponential}{00042}} \textcolor{keyword}{class }\mbox{\hyperlink{class_exponential}{Exponential}}: \textcolor{keyword}{public} \mbox{\hyperlink{class_flow_body}{FlowBody}} \{}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00043}00043     \textcolor{keyword}{public}:}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00044}\mbox{\hyperlink{class_exponential_abc75eaef5b5f89656c4aa406aceb3c27}{00044}}         \mbox{\hyperlink{class_exponential_abc75eaef5b5f89656c4aa406aceb3c27}{Exponential}}()\{\}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00045}\mbox{\hyperlink{class_exponential_adf997c8c44ac0a3e0d76ba9e32ebb5ec}{00045}}         \mbox{\hyperlink{class_exponential_adf997c8c44ac0a3e0d76ba9e32ebb5ec}{\string~Exponential}}() \{\}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00046}\mbox{\hyperlink{class_exponential_a00fc8c70e25ea91120b26d640480a22c}{00046}}         \textcolor{keywordtype}{double} \mbox{\hyperlink{class_exponential_a00fc8c70e25ea91120b26d640480a22c}{run}}()\{}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00047}00047             \textcolor{keywordflow}{return} \mbox{\hyperlink{class_flow_body_acd4ccaea46cd833a0cee5f6b5f0df858}{getSource}}()-\/>\mbox{\hyperlink{class_system_aef8971c63440ffdc90946c750db440f7}{getValue}}()*0.01;}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00048}00048         \}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00049}00049 \};}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00050}00050 }
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00051}\mbox{\hyperlink{class_logistic}{00051}} \textcolor{keyword}{class }\mbox{\hyperlink{class_logistic}{Logistic}}: \textcolor{keyword}{public} \mbox{\hyperlink{class_flow_body}{FlowBody}}\{}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00052}00052     \textcolor{keyword}{public}:}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00053}\mbox{\hyperlink{class_logistic_ae137bd4c8e3d59f2860b89b4e8a5f43c}{00053}}         \mbox{\hyperlink{class_logistic_ae137bd4c8e3d59f2860b89b4e8a5f43c}{Logistic}}()\{\}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00054}\mbox{\hyperlink{class_logistic_a749e39ff99fbd5a042fcd98dc5d75601}{00054}}         \mbox{\hyperlink{class_logistic_a749e39ff99fbd5a042fcd98dc5d75601}{\string~Logistic}}() \{\}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00055}\mbox{\hyperlink{class_logistic_af6f99f0b3655a4f2066617564935ff24}{00055}}         \textcolor{keywordtype}{double} \mbox{\hyperlink{class_logistic_af6f99f0b3655a4f2066617564935ff24}{run}}()\{}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00056}00056             \textcolor{keywordflow}{return} \mbox{\hyperlink{class_flow_body_a9c9fe5e8aee4fd6ec7a8f4c355be99f4}{getDestination}}()-\/>\mbox{\hyperlink{class_system_aef8971c63440ffdc90946c750db440f7}{getValue}}()*0.01*(1-\/(\mbox{\hyperlink{class_flow_body_a9c9fe5e8aee4fd6ec7a8f4c355be99f4}{getDestination}}()-\/>\mbox{\hyperlink{class_system_aef8971c63440ffdc90946c750db440f7}{getValue}}())/70);}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00057}00057         \}}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00058}00058 \};}
+\DoxyCodeLine{\Hypertarget{functional__tests_8h_source_l00059}00059 \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

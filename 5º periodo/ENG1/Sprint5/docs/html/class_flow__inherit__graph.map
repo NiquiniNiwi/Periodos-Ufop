@@ -1,0 +1,7 @@
+<map id="Flow" name="Flow">
+<area shape="rect" id="node1" title="File responsible for project flows." alt="" coords="131,5,181,32"/>
+<area shape="rect" id="node2" href="$class_flow___imp.html" title="File responsible for project flows." alt="" coords="117,80,195,107"/>
+<area shape="rect" id="node3" href="$class_exponential.html" title=" " alt="" coords="5,155,96,181"/>
+<area shape="rect" id="node4" href="$class_flow_unit.html" title="File responsible for project flows." alt="" coords="120,155,192,181"/>
+<area shape="rect" id="node5" href="$class_logistic.html" title=" " alt="" coords="216,155,283,181"/>
+</map>

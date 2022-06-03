@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "initializer_list": "cpp",
+        "vector": "cpp",
+        "xutility": "cpp",
+        "iosfwd": "cpp",
+        "exception": "cpp",
+        "utility": "cpp",
+        "xmemory": "cpp",
+        "xiosbase": "cpp",
+        "map": "cpp",
+        "xtree": "cpp",
+        "cstdlib": "cpp"
+    }
+}
