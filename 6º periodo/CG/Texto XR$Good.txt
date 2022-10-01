@@ -1,0 +1,8 @@
+XR4Good:
+Projetos:
+Avaliação do Impacto do Uso de Realidade Aumentada em Atividades Colaborativas em Contexto Industrial
+Inserção em Realidade virtual como alternativa no estudo de neurobiologia das emoções
+Realidade Aumentada como Ferramenta de Auxílio ao Ensino Presencial
+Reconhecimento de gestos de portadores de diabetes por meio de algoritmos de aprendizado de máquina e equipamentos vestíveis
+Realidade aumentada como um guia informativo
+Avaliação de equipamentos vestíveis como ferramenta de auxílio ao controle de diabetes. Caso de estudo, Smartwatch

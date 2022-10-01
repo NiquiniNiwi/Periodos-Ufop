@@ -1,0 +1,22 @@
+Sobre o Laboratório iMobilis:
+Ano de criação: 2010
+Professor responsável: Prof. Ricardo Augusto Rabelo Oliveira
+Linhas de pesquisa: Sistemas de Computação, Computação Móvel, Redes Sem Fio
+Número de alunos (2010-2012): 8 alunos de graduação, 5 de mestrado e 1 doutorando
+Número de professores colaboradores (2010-2012): 6 professores doutores, 2 professores mestres.
+Equipamentos, adquiridos através de convênios com empresas e editais de agência de fomento.
+
+CSI.Lab
+The Intelligent Systems Computing Laboratory (CSILab) is a space reserved for research activities of the grant holders undergraduate students at UFOP, and Ph.D students at PPGCC/DECOM.
+
+TerraLAB:
+Produtos:
+TerraME: É um ambiente de programação para modelagem dinâmica espacial. Ele suporta autômatos celulares, modelos baseados em agentes, e os modelos de rede em execução em espaços celulares 2D. TerraME fornece uma interface para banco de dados geográficos TerraLib, permitindo que os modelos tenham acesso direto a dados geoespaciais. Sua linguagem de modelagem tem funções embutidas que torna mais fácil o desenvolvimento de modelos multi-escala e multi-paradigma para aplicações ambientais (saiba mais).
+
+SIGHabitar: É um Sistema de Informação Territorial – SIT, que apoiará a tomada de decisão do planejamento estratégico, para tornar mais acurado o desenvolvimento urbano sustentável. Ele é fruto de um convênio entre a Prefeitura de Ouro Preto e a Universidade Federal de Ouro Preto – UFOP, representada por seu Departamento de Computação – DECOM. (saiba mais)
+
+Segurança da Mulher: É um aplicativo mobile desenvolvido em parceria com a Ouvidoria Feminina Athenas (do Departamento de Direito da UFOP), que possibilita, de forma anônima, a realização de denúncias de assédio, abuso ou violência em lugares específicos de um mapa. Dessa forma, o app cria um mapa de vulnerabilidade que pode ser visualizado pelas usuárias. Como complemento às funcionalidades do aplicativo, está disponível dentro do mesmo todos os canais de comunicação com a Ouvidoria Feminina da UFOP, proporcionando assim uma extensa rede de apoio à mulher.
+
+Voluta:
+A Voluta Soluções Digitais deseja proporcionar oportunidades de acesso e aprimoramento à tecnologia para as micro e pequenas empresas, promovendo aprendizado e visão empreendedora para os alunos que nela colaboram.
+

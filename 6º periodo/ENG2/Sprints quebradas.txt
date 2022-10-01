@@ -1,0 +1,23 @@
+Sprint I
+Listar os pontos turísticos da cidade de Ouro Preto e Mariana:
+	- Criar um banco de dados para os pontos turisticos de ambas as cidades;
+	- Preencher esse banco de dados como pontos turisticos;
+	- Disponibilizar a leitura das informações desses dados.
+Disponibilizar informações sobre os pontos turísticos:
+	- Preencher o banco de dados com as informações dos pontos turisticos; 
+	- Preencher o banco de dados com as imagens dos pontos turisticos.
+Design da página web:
+	- Desenvolver o prototipo da UX/UI do site.
+Sprint II
+Design da página web:
+	- Implementar o prototipo da UX/UI no site.
+Gerar uma rota entre o local do usuário e o ponto turístico:
+	- Preencher o banco de dados com lat, long de todos os pontos turisticos;
+	- "Pegar" a lat, long do usuario;
+	- Gerar rota entre o o usuario e o local desejado.
+Sprint III
+Pesquisar por pontos turísticos:
+	- Criar input de pesquisa;
+	- Procurar no banco de dados pelo nome do ponto turistico;
+	- Procurar no bancod de dados pelo endereço do ponto turistico;
+	- Mostrar dados do local pesquisa.
